@@ -25,4 +25,7 @@ It also resets automatically every week and posts reminders on match day.
  `/help`       Show available commands
 
 
-To use : Clone the code and 
+To use :
+Clone the code and make sure to change the bot token to yours in the file 'env' .
+for testing I recommend just running on terminal, but for activating the project I used heroku to commit the code and keeping it running 24/7 .
+
